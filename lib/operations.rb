@@ -11,7 +11,7 @@ end
 
 
 def not_safe?(speed)
-  puts 
+  puts 40 ? 60 
 	
 end
 	
